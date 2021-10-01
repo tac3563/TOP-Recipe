@@ -1,8 +1,26 @@
+// Variables
+
+
+
+// Universal Reset
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
+
+
+// Main Container
+
+.main-container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+
+// Home Header Section
+
 
 .header__title {
     font-size: 4rem;
@@ -10,9 +28,31 @@
     color: #1D091E;
     margin-bottom: 1em;
     margin: .5em;
+    text-align: center;
 }
 
-.lasagna-link {
+
+// Home Main Section
+
+
+
+
+// Lasagna Header Section
+
+.link {
     margin-left: 1em;
+}
+
+.lasagna__img {
+    width: 100%;
+    margin-bottom: 2em;
+}
+
+// Lasagna Main Section
+
+
+
+.guac__img {
+    width: 100%;
 }
 

@@ -5,15 +5,30 @@
           box-sizing: border-box;
 }
 
+.main-container {
+  width: 70%;
+  margin: 0 auto;
+}
+
 .header__title {
   font-size: 4rem;
   text-transform: uppercase;
   color: #1D091E;
   margin-bottom: 1em;
   margin: .5em;
+  text-align: center;
 }
 
-.lasagna-link {
+.link {
   margin-left: 1em;
+}
+
+.lasagna__img {
+  width: 100%;
+  margin-bottom: 2em;
+}
+
+.guac__img {
+  width: 100%;
 }
 /*# sourceMappingURL=style.css.map */
